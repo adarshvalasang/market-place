@@ -1,17 +1,21 @@
-# market-place
+# 🛒 Market-Place
 
-Overview
+A simple and user-friendly **marketplace application** where users can browse, list, and manage products, place orders, and track their order status. Designed with a clean UI and a robust backend, this application provides a smooth and efficient online shopping experience.
 
-Users can browse, list, and manage products.
-Users can place orders for available products.
-Users can track their placed and received orders.
+---
 
+## 📌 Overview
 
-Tech Stack
+- Users can **browse** available products.
+- Users can **list and manage** their own products.
+- Users can **place orders** for listed products.
+- Users can **track** both placed and received orders.
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: Airtable
-API Calls: Axios / Fetch API
+---
 
+## 🛠️ Tech Stack
 
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: Airtable  
+- **API Handling**: Axios / Fetch API  
